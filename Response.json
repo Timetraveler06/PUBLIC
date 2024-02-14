@@ -1,0 +1,240 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. It is designed to address some of Ethereum's limitations, including scalability issues, high gas fees, and slow transaction speeds.",
+    "tags": [
+        "pos",
+        "ethereum-compatible",
+        "layer 2",
+        "sidechains",
+        "scaling solutions"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "10,000,000,000"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of Stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "Polygon"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/docs/",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.matic.network/",
+        "github": "https://github.com/maticnetwork"
+    },
+    "social_platforms": {
+        "discord": "https://discord.gg/maticnetwork",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community/",
+        "coinmarketcap_community": "https://coinmarketcap.com/currencies/polygon/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Polygon"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Polygon"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/polygon"
+        },
+        {
+            "name": "CryptoCompare",
+            "url": "https://www.cryptocompare.com/coins/matic/overview"
+        },
+        {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/symbols/MATICUSD/"
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/matic-network/"
+        },
+        {
+            "name": "Investing",
+            "url": "https://www.investing.com/crypto/polygon/matic-usd"
+        },
+        {
+            "name": "MarketWatch",
+            "url": "https://www.marketwatch.com/investing/cryptocurrency/maticusd"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/MATIC-USD"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Polygonscan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Maticvigil",
+            "url": "https://maticvigil.com/"
+        },
+        {
+            "name": "Polygonscan (Polygon Mumbai Testnet)",
+            "url": "https://mumbai.polygonscan.com/"
+        },
+        {
+            "name": "Polygonscan (Polygon Mumbai Testnet - PoS Bridge)",
+            "url": "https://mumbai-explorer.matic.today/"
+        },
+        {
+            "name": "Blockscout (Polygon PoA Network)",
+            "url": "https://explorer.matic.network/"
+        },
+        {
+            "name": "Analyze Polygon (Matic Mainnet)",
+            "url": "https://analyze.polygonscan.com/"
+        },
+        {
+            "name": "Polygon Explorer (Matic Mainnet)",
+            "url": "https://explorer-mainnet.maticvigil.com/"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Polygon Bridge",
+            "url": "https://wallet.matic.network/bridge/"
+        },
+        {
+            "name": "Hop Protocol",
+            "url": "https://hop.exchange/"
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+        },
+        {
+            "name": "Wormhole",
+            "url": "https://wormhole.com/"
+        },
+        {
+            "name": "Stargate",
+            "url": "https://stargate.finance/"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "https://blog.polygon.technology/polygon-bug-bounty-program/"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Polygon Foundation",
+            "url": "https://polygon.technology/docs/grants/"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Matic Faucet",
+            "url": "https://faucet.matic.network/"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Matic Mainnet",
+            "url": "https://rpc-mainnet.matic.network"
+        },
+        {
+            "name": "Mumbai Testnet",
+            "url": "https://rpc-mumbai.matic.today"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Wallet Finder",
+            "url": "https://polygon.technology/wallets/"
+        },
+        {
+            "name": "MetaMask",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "Math Wallet",
+            "url": "https://www.mathwallet.org/"
+        },
+        {
+            "name": "Trust Wallet",
+            "url": "https://trustwallet.com/"
+        },
+        {
+            "name": "MyEtherWallet",
+            "url": "https://www.myetherwallet.com/"
+        },
+        {
+            "name": "TokenPocket",
+            "url": "https://www.tokenpocket.pro/"
+        },
+        {
+            "name": "Portis",
+            "url": "https://www.portis.io/"
+        },
+        {
+            "name": "Fortmatic",
+            "url": "https://www.fortmatic.com/"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "url": "https://chain.link/"
+        },
+        {
+            "name": "Band Protocol",
+            "url": "https://bandprotocol.com/"
+        },
+        {
+            "name": "Tellor",
+            "url": "https://tellor.io/"
+        },
+        {
+            "name": "API3",
+            "url": "https://api3.org/"
+        },
+        {
+            "name": "Razor Network",
+            "url": "https://razor.network/"
+        },
+        {
+            "name": "DIA",
+            "url": "https://diadata.org/"
+        },
+        {
+            "name": "Provable",
+            "url": "https://provable.xyz/"
+        },
+        {
+            "name": "Chronicle",
+            "url": "https://chroniclelabs.org/"
+        }
+    ]
+}
